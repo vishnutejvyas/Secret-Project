@@ -1,0 +1,6 @@
+{
+  "name": "Okay, Quick Question... 👀",
+  "description": "A cute, playful, and casual hangout questionnaire personalized for Avanthi 👻.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
